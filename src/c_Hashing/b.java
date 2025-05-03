@@ -22,6 +22,7 @@ public class b
             char ch=sc.next().charAt(0);
 //            Fetch
             System.out.println(hash[ch-'a']);
+            q--;
         }
     }
 }

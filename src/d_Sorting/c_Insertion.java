@@ -36,7 +36,20 @@ public class c_Insertion
         }
     }
     static void insertion_sort(int[]arr ,int n){
-
+        for(int i=0;i<=n-1;i++){
+            int j=i;
+            while(j>0 && arr[j]<arr[j-1]){
+//                Swap
+                int temp=arr[j];
+                arr[j]=arr[j-1];
+                arr[j-1]=temp;
+                j--;
+            }
+        }
+//        System.out.println("After insertion sort");
+//        for(int i=0;i<n;i++){
+//            System.out.println(arr[i]+" ");
+//        }
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -47,7 +60,8 @@ public class c_Insertion
             arr[i]= sc.nextInt();
         }
 //        selection_sort(arr,n);
-        bubble_sort(arr,n);
+//        bubble_sort(arr,n);
+        insertion_sort(arr,n);
         for(int i =0; i<n;i++){
             System.out.println(arr[i]+" ");
         }
