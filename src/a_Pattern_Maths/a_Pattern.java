@@ -60,7 +60,7 @@ public class a_Pattern
         }
     }
     public void pat7(int n){
-        for (int i = 0; i < n; i++) {
+        for  (int i = 0; i < n; i++) {
             //  space
             for(int j=0;j<n-i-1;j++)
             {
@@ -344,7 +344,7 @@ public class a_Pattern
             int n= sc.nextInt();
 
             a_Pattern p1 = new a_Pattern();
-            p1.pat22(n);
+            p1.pat6(n);
         }
 
         sc.close();
