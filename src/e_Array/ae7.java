@@ -1,6 +1,6 @@
 package e_Array;
 //LINEAR SEARCH ARRAY EASY
-public class e7
+public class ae7
 {
     public static int brute(int[] arr, int n){
         int num=4;
