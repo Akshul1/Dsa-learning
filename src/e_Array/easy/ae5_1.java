@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.easy;
 
 public class ae5_1
 {

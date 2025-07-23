@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.easy;
 // Left rotate the array
 public class ae5
 {

@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.easy;
 //  Max consecutive one;
 public class ae10
 {

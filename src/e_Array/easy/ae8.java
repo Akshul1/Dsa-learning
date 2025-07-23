@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.easy;
 //Find the union and intersection of two sorted arrays
 
 import java.util.ArrayList;

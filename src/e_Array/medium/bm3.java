@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.medium;
 
 import java.util.HashMap;
 import java.util.Map;

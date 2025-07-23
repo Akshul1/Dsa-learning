@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.easy;
 //LINEAR SEARCH ARRAY EASY
 public class ae7
 {

@@ -1,7 +1,6 @@
-package e_Array;
+package e_Array.medium;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 //Rearrange Array Elements by Sign
 public class bm6

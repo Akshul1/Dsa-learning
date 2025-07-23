@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.easy;
 //Longest subarray with sum K (Positives + Negatives)
 public class ae12_1
 {

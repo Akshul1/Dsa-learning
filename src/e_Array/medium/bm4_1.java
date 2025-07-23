@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.medium;
 //Complete this during revision time
 public class bm4_1
 {

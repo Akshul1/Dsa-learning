@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.easy;
 //Find the missing no. in the array
 public class ae9
 {

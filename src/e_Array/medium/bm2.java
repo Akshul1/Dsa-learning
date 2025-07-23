@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.medium;
 //Sort an array of 0's 1's and 2's
 public class bm2
 {

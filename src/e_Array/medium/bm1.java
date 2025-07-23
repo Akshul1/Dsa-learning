@@ -1,6 +1,5 @@
-package e_Array;
+package e_Array.medium;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.HashMap;
 

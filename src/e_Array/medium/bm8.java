@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.medium;
 //leaders in the array problem
 public class bm8
 {

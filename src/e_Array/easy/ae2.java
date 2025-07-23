@@ -1,4 +1,4 @@
-package e_Array;
+package e_Array.easy;
 // FIND THE SECOND LARGEST NO IN AN ARRAY
 
 
