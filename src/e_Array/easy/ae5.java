@@ -28,10 +28,5 @@ public class ae5
         for(int i:arr){
             System.out.print(i+" ");
         }
-
-
-
-
-
     }
 }
